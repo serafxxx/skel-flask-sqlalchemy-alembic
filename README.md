@@ -1,0 +1,1 @@
+#Skeleton for Flask SQLAlchemy Alembic app
